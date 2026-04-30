@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="todolist-app">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/03_VueJS/01_basic/09_CompositionAPI/todolist-app.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

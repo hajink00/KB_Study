@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="axios-test-app">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/03_VueJS/01_basic/11_axios/axios-test-app.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

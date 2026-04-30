@@ -1,0 +1,19 @@
+package main.java.ch05_abstract_interface.advanced.ch08.sec12;
+
+public class InstanceofExample {
+    public static void main(String[] args) {
+        // 구현 객체 생성
+        Taxi taxi = new Taxi();
+        Bus bus = new Bus();
+
+        // ride() 메소드 호출 시 구현 매개값으로 구현객체 전달
+        ride(taxi);
+        System.out.println();
+        ride(bus);
+    }
+
+    public static void ride(Vehicle vehicle){
+        if(vehicle instanceof Bus bus) { bus.checkFare(); } vehicle.run();
+    }
+
+}

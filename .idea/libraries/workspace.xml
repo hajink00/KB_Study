@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="workspace">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/todolist-app-practice.zip!/" />
+      <root url="jar://$PROJECT_DIR$/03_VueJS.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
